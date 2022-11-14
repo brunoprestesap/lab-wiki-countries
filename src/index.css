@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  text-align: left;
+}
+
+.listCountries {
+  display: flex;
+  text-align: left;
+}
+
+img {
+  width: 45px;
+}
